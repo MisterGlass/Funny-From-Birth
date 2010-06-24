@@ -15,10 +15,10 @@ html	{
 	font-family: Arial,sans-serif;
 	font-size: 153.9%;
 }
-strong	{
+h2	{
 	font-weight: bold;
 }
 
 a		{
-	link-color: white;
+	color: white;
 }
