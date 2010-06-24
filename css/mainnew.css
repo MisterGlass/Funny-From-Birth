@@ -1,5 +1,5 @@
 html	{
-	background-image: url('/images/bg3.png');
+	/* background-image: url('/images/bg3.png'); */
 	background-color: #515151;
 	background-position: top center;
 	background-repeat:no-repeat;
@@ -9,7 +9,7 @@ html	{
 
 #container	{
 
-	padding-top: 400px;
+	/*padding-top: 400px; */
 	text-align:center;
 	color: white;
 	font-family: Arial,sans-serif;
@@ -21,4 +21,5 @@ h2	{
 
 a		{
 	color: white;
+	text-decoration: none;
 }
